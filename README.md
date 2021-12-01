@@ -9,8 +9,8 @@
 
 [stars-shield]: https://img.shields.io/github/stars/PolinaPolskaia/app-profiles.svg?style=flat-square
 [stars-url]: https://github.com/PolinaPolskaia/app-profiles/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AvinashBolleddula/Profitable-App-Profiles.svg?style=flat-square
-[issues-url]: https://github.com/AvinashBolleddula/Profitable-App-Profiles/issues
+[issues-shield]: https://img.shields.io/github/issues/PolinaPolskaia/app-profiles/.svg?style=flat-square
+[issues-url]: https://github.com/PolinaPolskaia/app-profiles//issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/AvinashBolleddula/Profitable-App-Profiles/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
