@@ -1,5 +1,4 @@
 ![Language](https://img.shields.io/badge/language-python--3.8.3-blue) 
-[![Forks][forks-shield]][forks-url] 
 [![Stargazers][stars-shield]][stars-url] 
 [![Issues][issues-shield]][issues-url] 
 [![MIT License][license-shield]][license-url] 
@@ -7,10 +6,9 @@
  <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/PolinaPolskaia/app-profiles.svg?style=flat-square
-[forks-url]: https://github.com/PolinaPolskaia/app-profiles/network/members
-[stars-shield]: https://img.shields.io/github/stars/AvinashBolleddula/Profitable-App-Profiles.svg?style=flat-square
-[stars-url]: https://github.com/AvinashBolleddula/Profitable-App-Profiles/stargazers
+
+[stars-shield]: https://img.shields.io/github/stars/PolinaPolskaia/app-profiles.svg?style=flat-square
+[stars-url]: https://github.com/PolinaPolskaia/app-profiless/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AvinashBolleddula/Profitable-App-Profiles.svg?style=flat-square
 [issues-url]: https://github.com/AvinashBolleddula/Profitable-App-Profiles/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
