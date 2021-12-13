@@ -2,10 +2,10 @@
 
 In this project, I analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets.
 
-In this project, I went through this data science workflow:
+Project workflow:
 
-* Started by clarifying the goal of our project.
-* Collected relevant data.
-* Cleaned the data to prepare it for analysis.
-* Analyzed the cleaned data.
-* Made a recommendation based on the data.
+* Clarifying the goal of our project
+* Collecting relevant data
+* Cleaning the data to prepare it for analysis
+* Analyzing the cleaned data
+* Making a recommendation based on the data.
