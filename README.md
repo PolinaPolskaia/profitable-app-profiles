@@ -3,7 +3,7 @@
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PolinaPolskaia/profitable-app-profiles/blob/main/app_profiles.ipynb)    [![nbviewer](https://img.shields.io/badge/-nbviewer-orange)](https://nbviewer.org/github/PolinaPolskaia/profitable-app-profiles/blob/main/app_profiles.ipynb)
 
 
-In this project, I analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets.
+In this project, I analyzed app from the Apple Store and Google Play markets with the goal of recommending an app profile that can be profitable for both markets.
 
 Project workflow:
 
