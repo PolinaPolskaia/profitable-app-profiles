@@ -1,5 +1,8 @@
 # Profitable App Profiles for the App Store and Google Play Markets
 
+Open in [![nbviewer](https://img.shields.io/badge/-nbviewer-orange)](https://nbviewer.org/github/PolinaPolskaia/profitable-app-profiles/blob/main/app_profiles.ipynbb)
+
+
 In this project, I analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets.
 
 Project workflow:
